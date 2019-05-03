@@ -25,6 +25,7 @@
 
 - A prova consiste em criar um app simples de Lista de Contatos.
 - Seu projeto deve também conter um arquivo README com a explicação das tecnologias utilizadas e as instruções para rodar.
+- Descrever suas dificuldades e facilidades, bem como o número de horas de desenvolvimento.
 
 ### Funcionalidades
 
