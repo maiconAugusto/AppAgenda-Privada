@@ -18,7 +18,7 @@
 ## Como participar?
 
 1. Faça um clone deste repositório.
-2. Quando estiver finalizado a prova, crie um Pull Request com o código do app.
+2. Quando estiver finalizado a prova, compartilhe seu código no seu Git de preferência e nos envie para o e-mail que consta ao final desse documento.
 3. Faremos nossa análise e te daremos um retorno.
 
 ## Detalhes da prova
@@ -45,8 +45,7 @@ O app deve conter as seguintes funcionalidades:
 * Recomendamos a utilização do [Firebase](https://firebase.google.com).
 * A entidade *contato* deve possuir os campos: nome, sobrenome, telefone, endereço (rua, bairro, cidade, uf, número), e-mail
 
-
-## Dúvidas?
+## Dúvidas? Envio da prova?
 `testes@lyncas.net`
 
 ### Desde já obrigado pelo seu interesse e boa prova!
