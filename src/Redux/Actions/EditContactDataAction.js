@@ -95,7 +95,7 @@ export const EditMyContact = ({email, emailContactEdit, keycontact ,firstName, s
             // Se a inserção deu certo, mostre uma menssagem para o usuário confirmando.
             .then(()=>{
                 dispatch({type: 'ModifyEditContacSucess'})
-                Alert.alert('Parabéns!\nUsuário adicionado com sucesso!')
+                Alert.alert('Salvo com sucesso!')
                    Actions.contacts()
             })
             // Se a inserção não der certo, mostre uma menssagem para o usuário .
