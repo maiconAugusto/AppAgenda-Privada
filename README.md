@@ -1,6 +1,6 @@
 ## App
 
-### Dependências necessarias para roda o App,
+### Dependências necessarias para rodar o App,
 
 - npm install    //para instalar as dependencias do node_modules
 
