@@ -1,51 +1,37 @@
-# Teste para React Native Developer
+## App
 
-[![Lyncas Logo](https://img-dev.feedback.house/TCo5z9DrSyX0EQoakV8sJkx1mSg=/fit-in/300x300/smart/https://s3.amazonaws.com/feedbackhouse-media-development/modules%2Fcore%2Fcompany%2F5c9e1b01c5f3d0003c5fa53b%2Flogo%2F5c9ec4f869d1cb003cb7996d)](https://www.lyncas.net)
-### Requisitos
+### Dependências necessarias para roda o App,
 
-- React Native (https://facebook.github.io/react-native/)
-- React (https://facebook.github.io/react/)
-- Material Design (https://material.io/guidelines/)
-- Native Components
-- JSX
-- Banco de dados NoSQL (MongoDB, Firebase, etc)
+- npm install    //para instalar as dependencias do node_modules
 
-### Diferencial
+- npm i --save firebase
+- npm i --save react-native-router-flux
+- npm i --save react-redux
+- npm i --save redux
+- npm install redux-thunk
+- npm i react-native-searchable-list --save
+- npm i  base-64
+- npm i --save lodash
+- npm install react-native-phone-call --save
+- npm i axios
+- npm i lodash
+- npm i --save react-native-elements
+- npm i --save react-native-vector-icons
+- react-native link react-native-vector-icons
 
-- Testes unitários
-- Arquitetura do projeto
 
-## Como participar?
 
-1. Faça um clone deste repositório.
-2. Quando estiver finalizado a prova, compartilhe seu código no seu Git de preferência e nos envie para o e-mail que consta ao final desse documento.
-3. Faremos nossa análise e te daremos um retorno.
 
-## Detalhes da prova
+### Sobre o App.
 
-- A prova consiste em criar um app simples de Lista de Contatos.
-- Seu projeto deve também conter um arquivo README com a explicação das tecnologias utilizadas e as instruções para rodar.
-- Descrever suas dificuldades e facilidades, bem como o número de horas de desenvolvimento.
+- É necessário fazer um cadastro  pelo  aplicativo com um E-mail válido e uma senha de no minimo 6     dígitos.
 
-### Funcionalidades
+### Sobre o desenvolvimento.
 
-O app deve conter as seguintes funcionalidades:
+- O desenvolvimento da aplicação levou 4 horas para ser concluida, não tive alguma dificuldades no desenvolvimento desta aplicação, pois eu uma tenho boa familiaridade com as as tecnologias usadas, algumas ja tinha utilizado em um projeto meu que esta em desenvolvimento o Space, que esta em meu repositório.
 
-1. Navegação com dados do usuário e itens de menu
-2. Listagem de contatos
-3. Criação de novo contato
-4. Edição e exclusão de contatos
-5. Exibir alerta de confirmaçao de exclusão
 
-*Obs.: Página de login é opcional, mas será considerado um diferencial*
+Desde já agradeço!
+Maicon A.
 
-### Especificações técnicas
 
-* O app deve se comunicar com uma base de dados externa via REST API.
-* Recomendamos a utilização do [Firebase](https://firebase.google.com).
-* A entidade *contato* deve possuir os campos: nome, sobrenome, telefone, endereço (rua, bairro, cidade, uf, número), e-mail
-
-## Dúvidas? Envio da prova?
-`testes@lyncas.net`
-
-### Desde já obrigado pelo seu interesse e boa prova!
