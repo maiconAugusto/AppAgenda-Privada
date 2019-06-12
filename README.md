@@ -28,7 +28,7 @@
 
 ### Sobre o desenvolvimento.
 
-- O desenvolvimento da aplicação levou 4 horas para ser concluida, não tive alguma dificuldades no desenvolvimento desta aplicação, pois eu uma tenho boa familiaridade com as as tecnologias usadas, algumas ja tinha utilizado em um projeto meu que esta em desenvolvimento o Space, que esta em meu repositório.
+- O desenvolvimento da aplicação levou 4 horas para ser concluida, não tive alguma dificuldade no desenvolvimento desta aplicação, pois eu ja tenho boa familiaridade com as as tecnologias usadas, algumas ja tinha utilizado em um projeto que eu estou desenvolvendo, o Space, que esta em meu repositório.
 
 
 Desde já agradeço!
