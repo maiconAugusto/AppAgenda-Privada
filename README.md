@@ -26,12 +26,6 @@
 
 - É necessário fazer um cadastro  pelo  aplicativo com um E-mail válido e uma senha de no minimo 6     dígitos.
 
-### Sobre o desenvolvimento.
 
-- O desenvolvimento da aplicação levou 4 horas para ser concluida, não tive alguma dificuldade no desenvolvimento desta aplicação, pois eu ja tenho boa familiaridade com as as tecnologias usadas, algumas ja tinha utilizado em um projeto que eu estou desenvolvendo, o Space, que esta em meu repositório.
-
-
-Desde já agradeço!
-Maicon A.
 
 
