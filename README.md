@@ -1,3 +1,9 @@
+![Uploading Screenshot_1564949877.png…]()
+![Uploading Screenshot_1564949897.png…]()
+![Uploading Screenshot_1564950016.png…]()
+![Uploading Screenshot_1564950032.png…]()
+![Uploading Screenshot_1564950073.png…]()
+
 ## App
 
 ### Dependências necessarias para rodar o App,
