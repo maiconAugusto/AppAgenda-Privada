@@ -3,24 +3,11 @@
 
 ## An aplication created with React Native and Firebase!
 
-### Dependências necessarias para rodar o App,
+#### npm install or yarn install
 
-- npm install    //para instalar as dependencias do node_modules
+##### react-native run-android :)
 
-- npm i --save firebase
-- npm i --save react-native-router-flux
-- npm i --save react-redux
-- npm i --save redux
-- npm install redux-thunk
-- npm i react-native-searchable-list --save
-- npm i  base-64
-- npm i --save lodash
-- npm install react-native-phone-call --save
-- npm i axios
-- npm i lodash
-- npm i --save react-native-elements
-- npm i --save react-native-vector-icons
-- react-native link react-native-vector-icons
+
 
 
 
